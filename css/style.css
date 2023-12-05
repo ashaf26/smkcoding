@@ -1,0 +1,202 @@
+html {
+    font-family: 'DM Sans';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    padding: 0%;
+    margin: 0;
+    align-items: center;
+    padding-top: 15px;
+    justify-content: space-between;
+}
+
+.icon-nav {
+    display: flex;
+    align-items: center;
+}
+
+.icon-img {
+    width: 110px;
+    align-items: center;
+
+}
+
+.nav-link {
+    align-items: center;
+}
+
+.link {
+    margin-right: 20px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+}
+
+.icon-arrow-bottom {
+    justify-items: baseline;
+}
+
+.content {
+
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    padding-top: 2.5%;
+}
+
+.about {
+
+    background-color: rgb(244, 249, 254);
+    background-size: cover;
+    justify-content: space-between;
+    height: 88vh;
+    width: 100%;
+    margin-top: 1.5%;
+}
+
+.img-diagram {
+    width: 400px;
+}
+
+.judul {
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Geneva, Tahoma, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Courier, monospace 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 55px
+}
+
+
+.text-awal {
+    margin-top: 5.5%;
+}
+
+
+.isi {
+    color: rgb(106, 105, 105);
+    font-size: 18px;
+    padding-top: 13px;
+}
+
+.button-button {
+    margin-top: 3%;
+    border: none;
+    background-color: rgb(7, 32, 218);
+    width: 170px;
+    border-radius: 3px;
+}
+
+.btn-link {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    padding: 10px 10px 8px 15px;
+}
+
+.menu-2 {
+    width: 1000px;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-pilihan {
+    text-decoration: none;
+    font-size: 14px;
+    color: grey;
+    padding-right: 30px;
+}
+
+.pembelajaran {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    width: 23%;
+    box-shadow: 0px 0px 0px 1px rgb(171, 171, 171);
+}
+
+.text-card {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#kuning {
+    background-color: rgb(255, 208, 0);
+    height: 18vh;
+}
+
+.row {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.cat-kuning {
+    display: flex;
+    padding-top: 25px;
+    margin-right: 100px;
+}
+
+.cat-kuning>.icon-kuning {
+    width: 50px;
+    padding-right: 25px;
+}
+
+.cat-kuning>h4 {
+    font-size: 0.7rem;
+    color: black;
+    font-weight: bolder;
+}
+
+.button-burger {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 0.7rem;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.grid {
+    margin: 0;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#kuning-smoke {
+    margin-top: 8%;
+    background-color: antiquewhite;
+}
+
+.button-bawah {
+    margin-top: 3%;
+    border: none;
+    background-color: rgb(7, 32, 218);
+    width: 170px;
+    border-radius: 3px;
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 20px;
+}
